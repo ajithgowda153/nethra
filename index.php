@@ -3,7 +3,7 @@
 <body>
  
 <?php
-echo " i m bad ajith gowda!";
+echo " i m bad sangabulla!";
 ?>
 
 </body>
